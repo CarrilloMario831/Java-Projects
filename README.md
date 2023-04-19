@@ -1,2 +1,2 @@
 # Java-Projects
-Implementations of varioud Data Structures
+Implementations of various Data Structures
