@@ -4,9 +4,6 @@ import java.util.Iterator;
 
 /**
  * Class for finding the most common words in a txt file
- * @author Mario Carrillo
- * @uni mc5132
- * @version 1.0 December 18, 2022
  */
 
 public class CommonWordFinder<K extends Comparable<K>, V>{
