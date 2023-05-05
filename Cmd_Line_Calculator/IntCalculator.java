@@ -5,9 +5,6 @@ import java.util.HashMap;
  * Command line calculator that works with only integers.
  * The command line argument must be put in quotes, as in:
  * java IntCalculator "(2 x 3) ^ 2"
- * @author Mario Carrillo
- * @uni mc5132
- * @version 1.0 October 12, 2022
  */
 public class IntCalculator {
     public static final HashMap<Character, Integer>
