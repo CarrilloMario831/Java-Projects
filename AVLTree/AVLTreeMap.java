@@ -1,8 +1,5 @@
 /**
  * Class that implements an AVL tree which implements the MyMap interface.
- * @author Mario Carrillo
- * @uni mc5132
- * @version 1.0 November 06, 2022
  */
 public class AVLTreeMap<K extends Comparable<K>, V> extends BSTMap<K, V>
         implements MyMap<K, V> {
