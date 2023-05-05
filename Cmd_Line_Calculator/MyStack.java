@@ -1,8 +1,5 @@
 /**
  * Interface for a stack.
- * @author Mario Carrillo
- * @uni mc5132
- * @version 1.0 October 12, 2022
  */
 public interface MyStack<E> {
 
