@@ -7,9 +7,6 @@ import java.util.List;
 
 /**
  * Class with two different methods to count inversions in an array of integers.
- * @author Mario Carrillo
- * @uni mc5132
- * @version 1.0.0 November 25, 2022
  */
 public class InversionCounter {
 
