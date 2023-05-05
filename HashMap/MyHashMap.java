@@ -2,9 +2,6 @@ import java.util.Iterator;
 
 /**
  * Class for a simple hash map.
- * @author Mario Carrillo
- * @uni mc5132
- * @version 1.0 November 19, 2022
  */
 public class MyHashMap<K extends Comparable<K>, V> implements MyMap<K, V> {
     // Helpful list of primes available at:
