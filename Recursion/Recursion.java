@@ -1,14 +1,3 @@
-/**
- * @author Mario Carrillo.
- * @uni mc5132
- *
- * Programming Assignment 2 - Recursion exercises
- * COMS W3134
- *
- * Note: All methods must be written recursively. No credit will be given for
- * methods written without recursion, even if they produce the correct output.
- */
-
 public class Recursion {
 
     /**
