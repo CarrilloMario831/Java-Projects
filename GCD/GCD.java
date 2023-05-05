@@ -2,10 +2,6 @@
 
 /**
  * Class containing 3 methods that perform the Euclidean Algorithm, Iteratively and Recursively
- * @author Mario Carrillo
- * @uni mc5132
- * @version 1.0
- * @since 09/11/2022
  */
 
 public class GCD {
