@@ -4,9 +4,6 @@ import java.util.List;
 
 /**
  * Resizable-array implementation of the MyList interface and MyStack interface.
- * @author Mario Carrillo
- * @uni mc5132
- * @version 1.0 October 12, 2022
  */
 public class MyArrayList<E> implements MyList<E>, MyStack<E> {
 
