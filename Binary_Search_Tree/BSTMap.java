@@ -1,9 +1,6 @@
 /**
  * Class that implements a binary search tree which implements the MyMap
  * interface.
- * @author Mario Carrillo
- * @version 1 10/28/22
- * @uni mc5132
  */
 
 public class BSTMap<K extends Comparable<K>, V> implements MyMap<K, V> {
